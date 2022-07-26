@@ -1,0 +1,1 @@
+* Store images in `src/` folder with the components
